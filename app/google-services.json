@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519430712827",
+    "project_id": "proyectoespestructuraddatos",
+    "storage_bucket": "proyectoespestructuraddatos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519430712827:android:137898610a81c22a616f5e",
+        "android_client_info": {
+          "package_name": "com.example.mysecondkotlinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrmN5OxaTDEmpctNIA7GC-Xyv9nYro70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
